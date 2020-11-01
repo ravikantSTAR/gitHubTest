@@ -16,5 +16,5 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-export { Capabilities } from '../../../types/capabilities';
+//export { Capabilities } from '../../../types/capabilities';
 export { CapabilitiesService } from './capabilities_service';
